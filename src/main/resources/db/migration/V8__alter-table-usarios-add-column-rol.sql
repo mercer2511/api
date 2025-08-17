@@ -1,0 +1,1 @@
+alter table usuarios add column rol varchar(20) not null default 'USER';
